@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+node_modules/
+dist/
+data/documents/*
+data/pages/*
+data/images/*
+data/charts/*
+data/tables/*
+data/processed/*
+storage/chroma/*
+storage/metadata/*
+storage/cache/*
+!**/.gitkeep
